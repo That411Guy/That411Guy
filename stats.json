@@ -1,11 +1,11 @@
 {
-  "total_repos_analyzed": 47,
-  "total_lines_added": 727228,
-  "total_commits": 1092,
+  "total_repos_analyzed": 48,
+  "total_lines_added": 728372,
+  "total_commits": 1094,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 569466,
+      "lines_added": 570610,
       "percentage": 78.3,
       "color": "#3178c6"
     },
@@ -471,6 +471,14 @@
         "C++": 673,
         "Swift": 58,
         "Kotlin": 6
+      }
+    },
+    "GameServersHub-LLC/ice-ini-gen-proj": {
+      "last_sha": "375466e957dd2613f03700645a16cb2d6007b22f",
+      "total_commits": 2,
+      "total_lines": 1144,
+      "lang_lines": {
+        "TypeScript": 1144
       }
     }
   }
