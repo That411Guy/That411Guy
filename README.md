@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=THAT411GUY&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Game%20Dev%20•%20DevOps%20Engineer&descSize=16&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=THAT411GUY&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Developer%20•%20Building%20cool%20stuff&descSize=16&descAlignY=55&descAlign=50"/>
 
 <!-- TYPING -->
 <a href="https://git.io/typing-svg">
@@ -17,6 +17,17 @@
 
 ---
 
+## 🚀 Featured Project
+
+<!-- Replace YOUR_REPO_NAME with the repo you want pinned at the top -->
+<div align="center">
+<a href="https://github.com/That411Guy/YOUR_REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=That411Guy&repo=YOUR_REPO_NAME&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+</a>
+</div>
+
+---
+
 ## 📊 Code Statistics
 
 <div align="center">
@@ -25,6 +36,25 @@
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=That411Guy&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%"/>
+</div>
+
+---
+
+## ⏱️ Weekly Development Breakdown
+
+<!-- Auto-updated by waka-readme-stats. Requires:
+       1. A WakaTime account (wakatime.com) with an editor plugin installed
+       2. A repo secret named WAKATIME_API_KEY with your WakaTime API key
+     Until configured, this block stays empty. -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=That411Guy&theme=github_dark&no-bg=true&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 </div>
 
 ---
@@ -127,6 +157,30 @@
 
 ---
 
+## 🎮 Steam Recently Played
+
+<!-- Replace YOUR_STEAM_ID64 with your 17-digit SteamID64 (find it at steamidfinder.com).
+     Your Steam profile + game details must be set to public. -->
+<div align="center">
+<a href="https://steamcommunity.com/profiles/YOUR_STEAM_ID64">
+  <img src="https://steam-readme-card.vercel.app/api?steamid=YOUR_STEAM_ID64&theme=dark" alt="Steam recently played"/>
+</a>
+</div>
+
+---
+
+## 🎲 3D Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg"/>
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-green.svg"/>
+</picture>
+</div>
+
+---
+
 ## 🐍 Contribution Graph
 
 <div align="center">
@@ -141,6 +195,22 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=That411Guy&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true"/>
+</div>
+
+---
+
+## 🎯 Recent Activity
+
+<!-- Auto-updated by github-activity-readme. Uses the built-in GITHUB_TOKEN; no extra secrets needed. -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📈 Profile Metrics
+
+<div align="center">
+<img src="./github-metrics-main.svg" alt="Profile metrics"/>
 </div>
 
 ---
@@ -162,4 +232,3 @@
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=100&section=footer"/>
-
