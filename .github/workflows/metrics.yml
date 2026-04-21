@@ -42,19 +42,33 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add code-stats.svg stats.json
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-          git commit -m "📊 Update code statistics"
+
+          # Stash generated outputs outside the repo so we can overlay them
+          # onto a fresh origin/main on each retry (stats.json / code-stats.svg
+          # are full-snapshot artifacts — always safe to overwrite).
+          mkdir -p "$RUNNER_TEMP/metrics-out"
+          cp code-stats.svg "$RUNNER_TEMP/metrics-out/code-stats.svg"
+          cp stats.json     "$RUNNER_TEMP/metrics-out/stats.json"
+
           for i in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+
+            cp "$RUNNER_TEMP/metrics-out/code-stats.svg" code-stats.svg
+            cp "$RUNNER_TEMP/metrics-out/stats.json"     stats.json
+
+            git add code-stats.svg stats.json
+            if git diff --staged --quiet; then
+              echo "No changes to commit"
+              exit 0
+            fi
+
+            git commit -m "📊 Update code statistics"
             if git push; then
               echo "Push succeeded on attempt $i"
               exit 0
             fi
-            echo "Push failed on attempt $i, rebasing on remote..."
-            git pull --rebase origin main
+            echo "Push failed on attempt $i, retrying with fresh origin/main..."
             sleep $((RANDOM % 5 + 1))
           done
           echo "Push failed after 5 attempts"
