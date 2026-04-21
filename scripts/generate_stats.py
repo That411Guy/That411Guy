@@ -7,7 +7,7 @@ Uses incremental caching: only re-scans commits newer than the last seen SHA.
 
 Environment variables:
   METRICS_TOKEN / GITHUB_TOKEN  - GitHub PAT (required)
-  GITHUB_USER                   - username (default: icetrahan)
+  GITHUB_USER                   - username (default: That411Guy)
   MAX_REPOS                     - cap repos scanned (default: 500)
   MAX_COMMITS_PER_REPO          - cap commits inspected per repo (default: 500)
   REQUEST_TIMEOUT               - per-request timeout seconds (default: 25)
@@ -31,7 +31,7 @@ import requests
 sys.stdout.reconfigure(line_buffering=True)
 
 GITHUB_TOKEN = os.environ.get("METRICS_TOKEN") or os.environ.get("GITHUB_TOKEN")
-USERNAME = os.environ.get("GITHUB_USER", "icetrahan")
+USERNAME = os.environ.get("GITHUB_USER", "That411Guy")
 MAX_REPOS = int(os.environ.get("MAX_REPOS", "500"))
 MAX_COMMITS_PER_REPO = int(os.environ.get("MAX_COMMITS_PER_REPO", "500"))
 REQUEST_TIMEOUT = int(os.environ.get("REQUEST_TIMEOUT", "25"))

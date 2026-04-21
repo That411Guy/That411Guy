@@ -73,7 +73,7 @@ jobs:
           committer_token: ${{ secrets.METRICS_PAT }}
           committer_branch: main
           filename: github-metrics-main.svg
-          user: icetrahan
+          user: That411Guy
           template: classic
           base: header, activity, community, repositories
           base_indepth: yes
@@ -120,7 +120,7 @@ jobs:
       - name: 🐍 Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: icetrahan
+          github_user_name: That411Guy
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark

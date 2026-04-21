@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=ICETRAHAN&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Game%20Dev%20•%20DevOps%20Engineer&descSize=16&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=THAT411GUY&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Game%20Dev%20•%20DevOps%20Engineer&descSize=16&descAlignY=55&descAlign=50"/>
 
 <!-- TYPING -->
 <a href="https://git.io/typing-svg">
@@ -10,8 +10,8 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=icetrahan&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/icetrahan)
-[![GitHub followers](https://img.shields.io/github/followers/icetrahan?style=flat-square&color=58a6ff&labelColor=161b22)](https://github.com/icetrahan?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=That411Guy&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/That411Guy)
+[![GitHub followers](https://img.shields.io/github/followers/That411Guy?style=flat-square&color=58a6ff&labelColor=161b22)](https://github.com/That411Guy?tab=followers)
 
 </div>
 
@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=icetrahan&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=That411Guy&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%"/>
 </div>
 
 ---
@@ -131,16 +131,16 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/icetrahan/icetrahan/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/icetrahan/icetrahan/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/icetrahan/icetrahan/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/That411Guy/That411Guy/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/That411Guy/That411Guy/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/That411Guy/That411Guy/output/snake.svg" />
 </picture>
 </div>
 
 ---
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=icetrahan&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=That411Guy&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true"/>
 </div>
 
 ---
