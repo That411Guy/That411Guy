@@ -141,8 +141,9 @@ jobs:
 
       - name: 🎯 Update activity in README
         uses: jamesgeorge007/github-activity-readme@master
-        with:
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
           COMMIT_NAME: "github-actions[bot]"
           COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
           COMMIT_MSG: "🎯 Update recent activity"
