@@ -203,6 +203,8 @@
 
 <!-- Auto-updated by github-activity-readme. Uses the built-in GITHUB_TOKEN; no extra secrets needed. -->
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/NexLink-Core-LLC/PoT-Guides/pull/2#issuecomment-4233041026) in [NexLink-Core-LLC/PoT-Guides](https://github.com/NexLink-Core-LLC/PoT-Guides)
+2. 🗣 Commented on [#1](https://github.com/NexLink-Core-LLC/PoT-Guides/pull/1#issuecomment-4120022493) in [NexLink-Core-LLC/PoT-Guides](https://github.com/NexLink-Core-LLC/PoT-Guides)
 <!--END_SECTION:activity-->
 
 ---
