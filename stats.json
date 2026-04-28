@@ -1,7 +1,7 @@
 {
-  "total_repos_analyzed": 125,
+  "total_repos_analyzed": 126,
   "total_lines_added": 1640637,
-  "total_commits": 3293,
+  "total_commits": 3294,
   "languages": [
     {
       "name": "TypeScript",
@@ -1090,6 +1090,12 @@
     },
     "GameServersHub/rust-servers": {
       "last_sha": "a14facd6978a5b2d3f3df05c60a3951b727bc66c",
+      "total_commits": 1,
+      "total_lines": 0,
+      "lang_lines": {}
+    },
+    "NexLink-Core-LLC/PoT-Server-Logs-Checker": {
+      "last_sha": "8ab11df644df282079482b391ba6ea06ea5d9fb5",
       "total_commits": 1,
       "total_lines": 0,
       "lang_lines": {}
