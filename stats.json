@@ -1,17 +1,17 @@
 {
   "total_repos_analyzed": 128,
-  "total_lines_added": 1649391,
-  "total_commits": 3429,
+  "total_lines_added": 1649436,
+  "total_commits": 3432,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 725790,
+      "lines_added": 725821,
       "percentage": 44.0,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "lines_added": 581307,
+      "lines_added": 581321,
       "percentage": 35.3,
       "color": "#f1e05a"
     },
@@ -519,11 +519,11 @@
       }
     },
     "NexLink-Core-LLC/Mod-Tracker-PoT": {
-      "last_sha": "026b500455eea50c397913b0f809b7ee5d2b56df",
-      "total_commits": 4,
-      "total_lines": 9779,
+      "last_sha": "c81710bb6822e7d9f814afc79c7ab97568238784",
+      "total_commits": 6,
+      "total_lines": 9793,
       "lang_lines": {
-        "JavaScript": 9697,
+        "JavaScript": 9711,
         "SQL": 82
       }
     },
@@ -1105,12 +1105,12 @@
       }
     },
     "NexLink-Core-LLC/PoT-Mod-Manager-Ptero-Add-on": {
-      "last_sha": "b87f30b4004317a38099798577d380885c8f8b95",
-      "total_commits": 5,
-      "total_lines": 507,
+      "last_sha": "b957b06cd925ef7fbe73c782a5cf6c29ee163475",
+      "total_commits": 6,
+      "total_lines": 538,
       "lang_lines": {
         "PHP": 164,
-        "TypeScript": 343
+        "TypeScript": 374
       }
     },
     "NexLink-Core-LLC/NLC-Schedule-Bot": {
