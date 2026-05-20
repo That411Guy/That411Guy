@@ -1,11 +1,11 @@
 {
   "total_repos_analyzed": 128,
-  "total_lines_added": 1653393,
-  "total_commits": 3444,
+  "total_lines_added": 1653432,
+  "total_commits": 3445,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 729380,
+      "lines_added": 729419,
       "percentage": 44.1,
       "color": "#3178c6"
     },
@@ -1105,12 +1105,12 @@
       }
     },
     "NexLink-Core-LLC/PoT-Mod-Manager-Ptero-Add-on": {
-      "last_sha": "b957b06cd925ef7fbe73c782a5cf6c29ee163475",
-      "total_commits": 6,
-      "total_lines": 538,
+      "last_sha": "5157f1673da36dfe42255147a155a29776dc1998",
+      "total_commits": 7,
+      "total_lines": 577,
       "lang_lines": {
         "PHP": 164,
-        "TypeScript": 374
+        "TypeScript": 413
       }
     },
     "NexLink-Core-LLC/NLC-Schedule-Bot": {
