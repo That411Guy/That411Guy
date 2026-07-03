@@ -1,30 +1,30 @@
 {
-  "total_repos_analyzed": 137,
-  "total_lines_added": 1844917,
-  "total_commits": 3699,
+  "total_repos_analyzed": 139,
+  "total_lines_added": 1893397,
+  "total_commits": 3712,
   "languages": [
     {
       "name": "TypeScript",
       "lines_added": 756302,
-      "percentage": 41.0,
+      "percentage": 40.0,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "lines_added": 587019,
-      "percentage": 31.9,
+      "lines_added": 635499,
+      "percentage": 33.6,
       "color": "#f1e05a"
     },
     {
       "name": "Python",
       "lines_added": 265231,
-      "percentage": 14.4,
+      "percentage": 14.0,
       "color": "#3572A5"
     },
     {
       "name": "C++",
       "lines_added": 95084,
-      "percentage": 5.2,
+      "percentage": 5.0,
       "color": "#f34b7d"
     },
     {
@@ -36,13 +36,13 @@
     {
       "name": "Dart",
       "lines_added": 47826,
-      "percentage": 2.6,
+      "percentage": 2.5,
       "color": "#00B4AB"
     },
     {
       "name": "Shell",
       "lines_added": 27175,
-      "percentage": 1.5,
+      "percentage": 1.4,
       "color": "#89e051"
     },
     {
@@ -1192,6 +1192,20 @@
       "lang_lines": {
         "TypeScript": 450
       }
+    },
+    "NexLink-Core-LLC/DB-Admin-Bot": {
+      "last_sha": "b8bc57b730c1ed97d408b5c78f85e06d2d28bfea",
+      "total_commits": 12,
+      "total_lines": 48480,
+      "lang_lines": {
+        "JavaScript": 48480
+      }
+    },
+    "NexLink-Core-LLC/NLC-Anti-Spam-Bot-Users": {
+      "last_sha": "0aaae59c4ec194516254bf393fceeedff3f22230",
+      "total_commits": 1,
+      "total_lines": 0,
+      "lang_lines": {}
     }
   }
 }
