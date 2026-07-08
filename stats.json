@@ -1,7 +1,7 @@
 {
   "total_repos_analyzed": 141,
-  "total_lines_added": 1939888,
-  "total_commits": 3782,
+  "total_lines_added": 1942172,
+  "total_commits": 3796,
   "languages": [
     {
       "name": "TypeScript",
@@ -11,8 +11,8 @@
     },
     {
       "name": "JavaScript",
-      "lines_added": 637943,
-      "percentage": 32.9,
+      "lines_added": 640227,
+      "percentage": 33.0,
       "color": "#f1e05a"
     },
     {
@@ -1164,11 +1164,11 @@
       }
     },
     "NexLink-Core-LLC/Plex-Bot-Private": {
-      "last_sha": "3674abe188ad25ea84e247bbba0493c8af0fd3d2",
-      "total_commits": 11,
-      "total_lines": 4760,
+      "last_sha": "05ff5ee4ba003cf0da6066888a570911b624faae",
+      "total_commits": 25,
+      "total_lines": 7044,
       "lang_lines": {
-        "JavaScript": 4760
+        "JavaScript": 7044
       }
     },
     "NexLink-Core-LLC/Test-2-Pterodactyl-Win-Node": {
