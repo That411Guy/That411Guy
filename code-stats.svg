@@ -12,13 +12,13 @@
   <rect class="bg" width="480" height="450" rx="6"/>
   <rect x="0.5" y="0.5" width="479" height="449" rx="6" fill="none" stroke="#30363d" stroke-width="1"/>
   <text x="20" y="32" class="title">📊 My Code Contributions</text>
-  <text x="20" y="52" class="subtitle">1.9M lines added • 3.8k commits • 142 repos analyzed</text>
+  <text x="20" y="52" class="subtitle">1.9M lines added • 3.8k commits • 144 repos analyzed</text>
 
   <g transform="translate(20, 85)">
     <circle cx="6" cy="8" r="6" fill="#3178c6"/>
     <text x="18" y="12" class="lang-name">TypeScript</text>
     <rect x="0" y="20" width="300" height="10" class="bar-bg" rx="5"/>
-    <rect x="0" y="20" width="119.44390228790061" height="10" fill="#3178c6" rx="5"/>
+    <rect x="0" y="20" width="119.4203535985529" height="10" fill="#3178c6" rx="5"/>
     <text x="315" y="14" class="lang-stats">771.1k lines</text>
     <text x="315" y="30" class="lang-stats" style="fill: #58a6ff;">39.8%</text>
   </g>
@@ -27,7 +27,7 @@
     <circle cx="6" cy="8" r="6" fill="#f1e05a"/>
     <text x="18" y="12" class="lang-name">JavaScript</text>
     <rect x="0" y="20" width="300" height="10" class="bar-bg" rx="5"/>
-    <rect x="0" y="20" width="99.21464752079558" height="10" fill="#f1e05a" rx="5"/>
+    <rect x="0" y="20" width="99.19405795844537" height="10" fill="#f1e05a" rx="5"/>
     <text x="315" y="14" class="lang-stats">640.5k lines</text>
     <text x="315" y="30" class="lang-stats" style="fill: #58a6ff;">33.1%</text>
   </g>
@@ -36,7 +36,7 @@
     <circle cx="6" cy="8" r="6" fill="#3572A5"/>
     <text x="18" y="12" class="lang-name">Python</text>
     <rect x="0" y="20" width="300" height="10" class="bar-bg" rx="5"/>
-    <rect x="0" y="20" width="41.08477779326797" height="10" fill="#3572A5" rx="5"/>
+    <rect x="0" y="20" width="41.07625165710604" height="10" fill="#3572A5" rx="5"/>
     <text x="315" y="14" class="lang-stats">265.2k lines</text>
     <text x="315" y="30" class="lang-stats" style="fill: #58a6ff;">13.7%</text>
   </g>
@@ -45,7 +45,7 @@
     <circle cx="6" cy="8" r="6" fill="#f34b7d"/>
     <text x="18" y="12" class="lang-name">C++</text>
     <rect x="0" y="20" width="300" height="10" class="bar-bg" rx="5"/>
-    <rect x="0" y="20" width="14.728689375280759" height="10" fill="#f34b7d" rx="5"/>
+    <rect x="0" y="20" width="14.725632797690583" height="10" fill="#f34b7d" rx="5"/>
     <text x="315" y="14" class="lang-stats">95.1k lines</text>
     <text x="315" y="30" class="lang-stats" style="fill: #58a6ff;">4.9%</text>
   </g>
@@ -54,7 +54,7 @@
     <circle cx="6" cy="8" r="6" fill="#00ADD8"/>
     <text x="18" y="12" class="lang-name">Go</text>
     <rect x="0" y="20" width="300" height="10" class="bar-bg" rx="5"/>
-    <rect x="0" y="20" width="12.629459237572998" height="10" fill="#00ADD8" rx="5"/>
+    <rect x="0" y="20" width="12.626838303618996" height="10" fill="#00ADD8" rx="5"/>
     <text x="315" y="14" class="lang-stats">81.5k lines</text>
     <text x="315" y="30" class="lang-stats" style="fill: #58a6ff;">4.2%</text>
   </g>
@@ -63,7 +63,7 @@
     <circle cx="6" cy="8" r="6" fill="#00B4AB"/>
     <text x="18" y="12" class="lang-name">Dart</text>
     <rect x="0" y="20" width="300" height="10" class="bar-bg" rx="5"/>
-    <rect x="0" y="20" width="7.408336818625401" height="10" fill="#00B4AB" rx="5"/>
+    <rect x="0" y="20" width="7.40679940034443" height="10" fill="#00B4AB" rx="5"/>
     <text x="315" y="14" class="lang-stats">47.8k lines</text>
     <text x="315" y="30" class="lang-stats" style="fill: #58a6ff;">2.5%</text>
   </g>
@@ -72,8 +72,8 @@
     <circle cx="6" cy="8" r="6" fill="#89e051"/>
     <text x="18" y="12" class="lang-name">Shell</text>
     <rect x="0" y="20" width="300" height="10" class="bar-bg" rx="5"/>
-    <rect x="0" y="20" width="4.21642889229673" height="10" fill="#89e051" rx="5"/>
-    <text x="315" y="14" class="lang-stats">27.2k lines</text>
+    <rect x="0" y="20" width="4.276572547173318" height="10" fill="#89e051" rx="5"/>
+    <text x="315" y="14" class="lang-stats">27.6k lines</text>
     <text x="315" y="30" class="lang-stats" style="fill: #58a6ff;">1.4%</text>
   </g>
 
