@@ -1,29 +1,29 @@
 {
   "total_repos_analyzed": 144,
-  "total_lines_added": 1955552,
-  "total_commits": 3832,
+  "total_lines_added": 1965279,
+  "total_commits": 3849,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 771102,
-      "percentage": 39.5,
+      "lines_added": 776609,
+      "percentage": 39.6,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "lines_added": 640500,
-      "percentage": 32.8,
+      "lines_added": 640505,
+      "percentage": 32.6,
       "color": "#f1e05a"
     },
     {
       "name": "Python",
       "lines_added": 265231,
-      "percentage": 13.6,
+      "percentage": 13.5,
       "color": "#3572A5"
     },
     {
       "name": "C++",
-      "lines_added": 95084,
+      "lines_added": 95227,
       "percentage": 4.9,
       "color": "#f34b7d"
     },
@@ -41,19 +41,19 @@
     },
     {
       "name": "Shell",
-      "lines_added": 27614,
+      "lines_added": 27732,
       "percentage": 1.4,
       "color": "#89e051"
     },
     {
       "name": "C#",
-      "lines_added": 14109,
-      "percentage": 0.7,
+      "lines_added": 18016,
+      "percentage": 0.9,
       "color": "#178600"
     },
     {
       "name": "SQL",
-      "lines_added": 8223,
+      "lines_added": 8270,
       "percentage": 0.4,
       "color": "#e38c00"
     },
@@ -1233,17 +1233,23 @@
       }
     },
     "NexLink-Core-LLC/Movie-TvShow-Request-Dashboard": {
-      "last_sha": "4ab66b0bb594a4cba5527862b38cd8a813aed115",
-      "total_commits": 1,
-      "total_lines": 0,
-      "lang_lines": {}
+      "last_sha": "f93065159a84292db160cc0aa768eb3c3eb91471",
+      "total_commits": 14,
+      "total_lines": 5559,
+      "lang_lines": {
+        "SQL": 47,
+        "TypeScript": 5507,
+        "JavaScript": 5
+      }
     },
     "NexLink-Core-LLC/Mod-Palworld-All-The-APIs": {
-      "last_sha": "d64f4ff6336a2ff7216ac269e2290b704884e011",
-      "total_commits": 3,
-      "total_lines": 12411,
+      "last_sha": "ac943cf7c145d02f4c3a8b4d5358bb4a9155009a",
+      "total_commits": 7,
+      "total_lines": 16579,
       "lang_lines": {
-        "C#": 12411
+        "C#": 16318,
+        "C++": 143,
+        "Shell": 118
       }
     }
   }
