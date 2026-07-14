@@ -1,7 +1,7 @@
 {
   "total_repos_analyzed": 144,
-  "total_lines_added": 1975603,
-  "total_commits": 3883,
+  "total_lines_added": 1977643,
+  "total_commits": 3887,
   "languages": [
     {
       "name": "TypeScript",
@@ -12,7 +12,7 @@
     {
       "name": "JavaScript",
       "lines_added": 640505,
-      "percentage": 32.5,
+      "percentage": 32.4,
       "color": "#f1e05a"
     },
     {
@@ -23,8 +23,8 @@
     },
     {
       "name": "C++",
-      "lines_added": 97395,
-      "percentage": 4.9,
+      "lines_added": 97801,
+      "percentage": 5.0,
       "color": "#f34b7d"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "name": "C#",
-      "lines_added": 24782,
+      "lines_added": 26416,
       "percentage": 1.3,
       "color": "#178600"
     },
@@ -1243,12 +1243,12 @@
       }
     },
     "NexLink-Core-LLC/Mod-Palworld-All-The-APIs": {
-      "last_sha": "c60c58baa116fcb5f579ba972beefd8a99f35c9f",
-      "total_commits": 15,
-      "total_lines": 25513,
+      "last_sha": "509ef00902697e6ee70590fc277132b31054f795",
+      "total_commits": 19,
+      "total_lines": 27553,
       "lang_lines": {
-        "C#": 23084,
-        "C++": 2311,
+        "C#": 24718,
+        "C++": 2717,
         "Shell": 118
       }
     }
