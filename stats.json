@@ -1,7 +1,7 @@
 {
   "total_repos_analyzed": 144,
-  "total_lines_added": 1978164,
-  "total_commits": 3892,
+  "total_lines_added": 1978888,
+  "total_commits": 3899,
   "languages": [
     {
       "name": "TypeScript",
@@ -17,7 +17,7 @@
     },
     {
       "name": "Python",
-      "lines_added": 265447,
+      "lines_added": 265714,
       "percentage": 13.4,
       "color": "#3572A5"
     },
@@ -528,8 +528,8 @@
       }
     },
     "NexLink-Core-LLC/NLC-Website": {
-      "last_sha": "efe17046eb79d63ed2cb2fb335d682e48bbe6e82",
-      "total_commits": 129,
+      "last_sha": "dae39ae676f2fa174c80c2170401293bfd1a565e",
+      "total_commits": 130,
       "total_lines": 1051,
       "lang_lines": {
         "TypeScript": 1051
@@ -1243,14 +1243,15 @@
       }
     },
     "NexLink-Core-LLC/Mod-Palworld-All-The-APIs": {
-      "last_sha": "d00f5183c46b483775a8bced4b94fd41327559d2",
-      "total_commits": 21,
-      "total_lines": 28074,
+      "last_sha": "b28a069fa2f043d30f411f6fb423a1d2df8e4710",
+      "total_commits": 27,
+      "total_lines": 28798,
       "lang_lines": {
         "C#": 25023,
         "C++": 2717,
         "Shell": 118,
-        "Python": 216
+        "Python": 483,
+        "Java": 457
       }
     }
   }
