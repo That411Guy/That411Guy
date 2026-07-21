@@ -1,11 +1,11 @@
 {
   "total_repos_analyzed": 146,
-  "total_lines_added": 2012794,
-  "total_commits": 4003,
+  "total_lines_added": 2013175,
+  "total_commits": 4004,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 799726,
+      "lines_added": 800107,
       "percentage": 39.8,
       "color": "#3178c6"
     },
@@ -1233,12 +1233,12 @@
       }
     },
     "NexLink-Core-LLC/Movie-TvShow-Request-Dashboard": {
-      "last_sha": "a8da017a017233dd17a2b8a753f3d4edc0934a88",
-      "total_commits": 38,
-      "total_lines": 9065,
+      "last_sha": "a6ec57c39b9e0f4b67753e11604cc0b78c5d5999",
+      "total_commits": 39,
+      "total_lines": 9446,
       "lang_lines": {
         "SQL": 47,
-        "TypeScript": 9013,
+        "TypeScript": 9394,
         "JavaScript": 5
       }
     },
