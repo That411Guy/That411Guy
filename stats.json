@@ -1,12 +1,12 @@
 {
   "total_repos_analyzed": 146,
-  "total_lines_added": 2023308,
-  "total_commits": 4069,
+  "total_lines_added": 2026039,
+  "total_commits": 4072,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 800107,
-      "percentage": 39.6,
+      "lines_added": 802835,
+      "percentage": 39.7,
       "color": "#3178c6"
     },
     {
@@ -24,7 +24,7 @@
     {
       "name": "C++",
       "lines_added": 104025,
-      "percentage": 5.2,
+      "percentage": 5.1,
       "color": "#f34b7d"
     },
     {
@@ -47,13 +47,13 @@
     },
     {
       "name": "Shell",
-      "lines_added": 28336,
+      "lines_added": 28338,
       "percentage": 1.4,
       "color": "#89e051"
     },
     {
       "name": "SQL",
-      "lines_added": 8853,
+      "lines_added": 8854,
       "percentage": 0.4,
       "color": "#e38c00"
     },
@@ -545,11 +545,11 @@
       }
     },
     "NexLink-Core-LLC/private-docker-images": {
-      "last_sha": "7705cbde4d41103d28d26214f73bd43fe515f994",
-      "total_commits": 134,
-      "total_lines": 8919,
+      "last_sha": "04518d146b9d153e37dcef39f17571325a107237",
+      "total_commits": 135,
+      "total_lines": 8921,
       "lang_lines": {
-        "Shell": 8919
+        "Shell": 8921
       }
     },
     "NexLink-Core-LLC/API-Bot-Private": {
@@ -1233,12 +1233,12 @@
       }
     },
     "NexLink-Core-LLC/Movie-TvShow-Request-Dashboard": {
-      "last_sha": "a6ec57c39b9e0f4b67753e11604cc0b78c5d5999",
-      "total_commits": 39,
-      "total_lines": 9446,
+      "last_sha": "91feca444cf3da3ba04a30a2968500964fb01895",
+      "total_commits": 41,
+      "total_lines": 12175,
       "lang_lines": {
-        "SQL": 47,
-        "TypeScript": 9394,
+        "SQL": 48,
+        "TypeScript": 12122,
         "JavaScript": 5
       }
     },
