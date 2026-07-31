@@ -1,12 +1,12 @@
 {
   "total_repos_analyzed": 146,
-  "total_lines_added": 2028173,
-  "total_commits": 4103,
+  "total_lines_added": 2029029,
+  "total_commits": 4105,
   "languages": [
     {
       "name": "TypeScript",
       "lines_added": 804878,
-      "percentage": 39.8,
+      "percentage": 39.7,
       "color": "#3178c6"
     },
     {
@@ -18,7 +18,7 @@
     {
       "name": "Python",
       "lines_added": 266206,
-      "percentage": 13.2,
+      "percentage": 13.1,
       "color": "#3572A5"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "name": "Shell",
-      "lines_added": 28338,
+      "lines_added": 29194,
       "percentage": 1.4,
       "color": "#89e051"
     },
@@ -482,8 +482,8 @@
       }
     },
     "That411Guy/That411Guy": {
-      "last_sha": "f6b42c8bda791b92417b201f5b621bef752b93f0",
-      "total_commits": 225,
+      "last_sha": "7b760eda3be94a226fb8aaeacc22e06917c3f067",
+      "total_commits": 226,
       "total_lines": 534,
       "lang_lines": {
         "Python": 534
@@ -545,11 +545,11 @@
       }
     },
     "NexLink-Core-LLC/private-docker-images": {
-      "last_sha": "04518d146b9d153e37dcef39f17571325a107237",
-      "total_commits": 135,
-      "total_lines": 8921,
+      "last_sha": "1c5a8020cfd8a8c56ab84815f53b5f5a42d50385",
+      "total_commits": 136,
+      "total_lines": 9777,
       "lang_lines": {
-        "Shell": 8921
+        "Shell": 9777
       }
     },
     "NexLink-Core-LLC/API-Bot-Private": {
