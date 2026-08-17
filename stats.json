@@ -1,24 +1,24 @@
 {
   "total_repos_analyzed": 149,
-  "total_lines_added": 2075477,
-  "total_commits": 4244,
+  "total_lines_added": 2088082,
+  "total_commits": 4259,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 833772,
-      "percentage": 40.3,
+      "lines_added": 846136,
+      "percentage": 40.6,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
       "lines_added": 657390,
-      "percentage": 31.7,
+      "percentage": 31.5,
       "color": "#f1e05a"
     },
     {
       "name": "Python",
       "lines_added": 266206,
-      "percentage": 12.9,
+      "percentage": 12.8,
       "color": "#3572A5"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "SQL",
-      "lines_added": 8936,
+      "lines_added": 9177,
       "percentage": 0.4,
       "color": "#e38c00"
     },
@@ -490,12 +490,12 @@
       }
     },
     "NexLink-Core-LLC/Nexus-Panel": {
-      "last_sha": "914b9fbfbffe667a7a89fe8efcf484e5ef1afbd6",
-      "total_commits": 112,
-      "total_lines": 110327,
+      "last_sha": "c6b859fb15c34e964eabb7349ca07eea1b6cae06",
+      "total_commits": 114,
+      "total_lines": 117358,
       "lang_lines": {
-        "TypeScript": 108479,
-        "SQL": 1081,
+        "TypeScript": 115342,
+        "SQL": 1249,
         "JavaScript": 760,
         "Shell": 7
       }
@@ -554,12 +554,12 @@
       }
     },
     "NexLink-Core-LLC/API-Bot-Private": {
-      "last_sha": "3d65befe88b52f24372e658fd2b05964cc27cdd8",
-      "total_commits": 23,
-      "total_lines": 17183,
+      "last_sha": "cf2a482bca22455b257ffbaf63c45b0084f4b8aa",
+      "total_commits": 36,
+      "total_lines": 22757,
       "lang_lines": {
-        "TypeScript": 16595,
-        "SQL": 588
+        "TypeScript": 22096,
+        "SQL": 661
       }
     },
     "NexLink-Core-LLC/game-config-data": {
