@@ -1,18 +1,18 @@
 {
   "total_repos_analyzed": 150,
-  "total_lines_added": 2095378,
-  "total_commits": 4267,
+  "total_lines_added": 2106449,
+  "total_commits": 4276,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 853261,
-      "percentage": 40.8,
+      "lines_added": 856457,
+      "percentage": 40.7,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "lines_added": 657415,
-      "percentage": 31.4,
+      "lines_added": 665135,
+      "percentage": 31.6,
       "color": "#f1e05a"
     },
     {
@@ -24,7 +24,7 @@
     {
       "name": "C++",
       "lines_added": 104026,
-      "percentage": 5.0,
+      "percentage": 4.9,
       "color": "#f34b7d"
     },
     {
@@ -53,8 +53,8 @@
     },
     {
       "name": "SQL",
-      "lines_added": 9323,
-      "percentage": 0.4,
+      "lines_added": 9478,
+      "percentage": 0.5,
       "color": "#e38c00"
     },
     {
@@ -509,22 +509,22 @@
       }
     },
     "NexLink-Core-LLC/Query-Bot-Public": {
-      "last_sha": "128180b3a0ee0266ddc51b96b70f2904bbcaa86d",
-      "total_commits": 75,
-      "total_lines": 38962,
+      "last_sha": "60e52088c5eb512067b8a15bce84831f26cf87b6",
+      "total_commits": 79,
+      "total_lines": 48607,
       "lang_lines": {
-        "JavaScript": 31961,
+        "JavaScript": 39651,
         "Shell": 59,
-        "SQL": 252,
-        "TypeScript": 6690
+        "SQL": 406,
+        "TypeScript": 8491
       }
     },
     "NexLink-Core-LLC/Mod-Tracker-PoT": {
-      "last_sha": "405418d0b3c65f6320077562dac311f41cadec8b",
-      "total_commits": 10,
-      "total_lines": 9990,
+      "last_sha": "cc21cbd0f8cc8df34957aa9b65eb814ded6e5808",
+      "total_commits": 11,
+      "total_lines": 10020,
       "lang_lines": {
-        "JavaScript": 9908,
+        "JavaScript": 9938,
         "SQL": 82
       }
     },
@@ -1106,8 +1106,8 @@
       }
     },
     "NexLink-Core-LLC/PoT-Mod-Manager-Ptero-Add-on": {
-      "last_sha": "1fbd43961fe5e10dcd729e05096e5d03cb212d93",
-      "total_commits": 11,
+      "last_sha": "6e1395ce1a673232d7d0779eaea5d221d5a49d94",
+      "total_commits": 12,
       "total_lines": 599,
       "lang_lines": {
         "PHP": 178,
@@ -1289,12 +1289,12 @@
       "lang_lines": {}
     },
     "NexLink-Core-LLC/Nexus-Bridge": {
-      "last_sha": "f87e6ace27993c53d282b72ac4170779fc2aab37",
-      "total_commits": 4,
-      "total_lines": 7296,
+      "last_sha": "0fc52e680cc1c51a4903f2a67d900bad82e6b49c",
+      "total_commits": 7,
+      "total_lines": 8692,
       "lang_lines": {
-        "SQL": 146,
-        "TypeScript": 7125,
+        "SQL": 147,
+        "TypeScript": 8520,
         "JavaScript": 25
       }
     }
