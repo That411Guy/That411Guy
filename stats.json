@@ -1,17 +1,17 @@
 {
   "total_repos_analyzed": 150,
-  "total_lines_added": 2108609,
-  "total_commits": 4310,
+  "total_lines_added": 2117688,
+  "total_commits": 4317,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 857051,
-      "percentage": 40.7,
+      "lines_added": 862007,
+      "percentage": 40.8,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "lines_added": 666425,
+      "lines_added": 670358,
       "percentage": 31.7,
       "color": "#f1e05a"
     },
@@ -53,7 +53,7 @@
     },
     {
       "name": "SQL",
-      "lines_added": 9506,
+      "lines_added": 9696,
       "percentage": 0.5,
       "color": "#e38c00"
     },
@@ -490,12 +490,12 @@
       }
     },
     "NexLink-Core-LLC/Nexus-Panel": {
-      "last_sha": "8d5f45e7ff60e5788deed0b799a79b5daac98e5c",
-      "total_commits": 115,
-      "total_lines": 117398,
+      "last_sha": "4f58be99fb37177732564d6687cb5cb616957fd1",
+      "total_commits": 120,
+      "total_lines": 121072,
       "lang_lines": {
-        "TypeScript": 115382,
-        "SQL": 1249,
+        "TypeScript": 118958,
+        "SQL": 1347,
         "JavaScript": 760,
         "Shell": 7
       }
@@ -509,14 +509,14 @@
       }
     },
     "NexLink-Core-LLC/Query-Bot-Public": {
-      "last_sha": "09ee21643196b977a33c7583b2917d7aeb624533",
-      "total_commits": 82,
-      "total_lines": 49958,
+      "last_sha": "d6171f53a9fe51feafabd0368e25755f684b8c5f",
+      "total_commits": 83,
+      "total_lines": 55298,
       "lang_lines": {
-        "JavaScript": 40941,
+        "JavaScript": 44874,
         "Shell": 59,
-        "SQL": 434,
-        "TypeScript": 8524
+        "SQL": 526,
+        "TypeScript": 9839
       }
     },
     "NexLink-Core-LLC/Mod-Tracker-PoT": {
@@ -529,11 +529,11 @@
       }
     },
     "NexLink-Core-LLC/NLC-Website": {
-      "last_sha": "52e302f7f8fdeee00f6fc6361e44b11e7a286f9a",
-      "total_commits": 147,
-      "total_lines": 1572,
+      "last_sha": "c4effcfec8bca3a6ea5a9bc683000b5f7e423ef1",
+      "total_commits": 148,
+      "total_lines": 1637,
       "lang_lines": {
-        "TypeScript": 1572
+        "TypeScript": 1637
       }
     },
     "GameServersHub-LLC/PoT-Mod-Notifier": {
