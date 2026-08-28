@@ -1,24 +1,24 @@
 {
   "total_repos_analyzed": 150,
-  "total_lines_added": 2141507,
-  "total_commits": 4343,
+  "total_lines_added": 2147310,
+  "total_commits": 4347,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 883931,
-      "percentage": 41.4,
+      "lines_added": 889445,
+      "percentage": 41.5,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "lines_added": 671490,
-      "percentage": 31.4,
+      "lines_added": 671585,
+      "percentage": 31.3,
       "color": "#f1e05a"
     },
     {
       "name": "Python",
       "lines_added": 266206,
-      "percentage": 12.5,
+      "percentage": 12.4,
       "color": "#3572A5"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "SQL",
-      "lines_added": 10459,
+      "lines_added": 10653,
       "percentage": 0.5,
       "color": "#e38c00"
     },
@@ -490,13 +490,13 @@
       }
     },
     "NexLink-Core-LLC/Nexus-Panel": {
-      "last_sha": "6e7e2d1505049f4626ceffe2339ddff61ee58f40",
-      "total_commits": 134,
-      "total_lines": 142737,
+      "last_sha": "bbcb19c90706af5584ea0329e3c0e6e46aaee90a",
+      "total_commits": 137,
+      "total_lines": 144484,
       "lang_lines": {
-        "TypeScript": 139869,
-        "SQL": 2101,
-        "JavaScript": 760,
+        "TypeScript": 141366,
+        "SQL": 2256,
+        "JavaScript": 855,
         "Shell": 7
       }
     },
@@ -1234,12 +1234,12 @@
       }
     },
     "NexLink-Core-LLC/Movie-TvShow-Request-Dashboard": {
-      "last_sha": "2b3b2f296cc78d84138a9e5fc5fa2f1d2daa9848",
-      "total_commits": 42,
-      "total_lines": 13027,
+      "last_sha": "eaaa4b22fb4b03032d57851bdcdc0102acd39e18",
+      "total_commits": 43,
+      "total_lines": 17083,
       "lang_lines": {
-        "SQL": 48,
-        "TypeScript": 12974,
+        "SQL": 87,
+        "TypeScript": 16991,
         "JavaScript": 5
       }
     },
