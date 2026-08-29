@@ -1,18 +1,18 @@
 {
   "total_repos_analyzed": 150,
-  "total_lines_added": 2147310,
-  "total_commits": 4349,
+  "total_lines_added": 2151963,
+  "total_commits": 4355,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 889445,
+      "lines_added": 892304,
       "percentage": 41.5,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
-      "lines_added": 671585,
-      "percentage": 31.3,
+      "lines_added": 673379,
+      "percentage": 31.4,
       "color": "#f1e05a"
     },
     {
@@ -24,7 +24,7 @@
     {
       "name": "C++",
       "lines_added": 104026,
-      "percentage": 4.9,
+      "percentage": 4.8,
       "color": "#f34b7d"
     },
     {
@@ -490,11 +490,11 @@
       }
     },
     "NexLink-Core-LLC/Nexus-Panel": {
-      "last_sha": "bbcb19c90706af5584ea0329e3c0e6e46aaee90a",
-      "total_commits": 137,
-      "total_lines": 144484,
+      "last_sha": "af7341b3eaf760d0ad1353ab179081af77175469",
+      "total_commits": 139,
+      "total_lines": 146782,
       "lang_lines": {
-        "TypeScript": 141366,
+        "TypeScript": 143664,
         "SQL": 2256,
         "JavaScript": 855,
         "Shell": 7
@@ -509,14 +509,14 @@
       }
     },
     "NexLink-Core-LLC/Query-Bot-Public": {
-      "last_sha": "54f9ebf1819abf0ac7318ebdc0476570d77651f1",
-      "total_commits": 84,
-      "total_lines": 56600,
+      "last_sha": "1083990fb85f257c5f20b39ce204023c85a46e58",
+      "total_commits": 85,
+      "total_lines": 58955,
       "lang_lines": {
-        "JavaScript": 46006,
+        "JavaScript": 47800,
         "Shell": 59,
         "SQL": 535,
-        "TypeScript": 10000
+        "TypeScript": 10561
       }
     },
     "NexLink-Core-LLC/Mod-Tracker-PoT": {
@@ -563,8 +563,8 @@
       }
     },
     "NexLink-Core-LLC/game-config-data": {
-      "last_sha": "f1c79ec5f0efad78a7b6a9dd1d5c7c02b9f6fb7e",
-      "total_commits": 68,
+      "last_sha": "f2a9dcb27abc86e559b2d7784dc1453d8c4a58df",
+      "total_commits": 71,
       "total_lines": 0,
       "lang_lines": {}
     },
