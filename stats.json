@@ -1,11 +1,11 @@
 {
   "total_repos_analyzed": 150,
-  "total_lines_added": 2160869,
-  "total_commits": 4403,
+  "total_lines_added": 2161573,
+  "total_commits": 4404,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 897380,
+      "lines_added": 898084,
       "percentage": 41.6,
       "color": "#3178c6"
     },
@@ -1124,11 +1124,11 @@
       }
     },
     "NexLink-Core-LLC/Lumpy-Worksheets": {
-      "last_sha": "3369ea2dd0b98b56acf05879a5c9534c146cb1b4",
-      "total_commits": 27,
-      "total_lines": 8308,
+      "last_sha": "d0756fa962d08e4fb9c8002b63bc6d07cc67c5ff",
+      "total_commits": 28,
+      "total_lines": 9012,
       "lang_lines": {
-        "TypeScript": 8308
+        "TypeScript": 9012
       }
     },
     "NexLink-Core-LLC/NLC-WHMCS-Ticket-bot": {
