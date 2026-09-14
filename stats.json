@@ -1,7 +1,7 @@
 {
   "total_repos_analyzed": 150,
   "total_lines_added": 2163725,
-  "total_commits": 4424,
+  "total_commits": 4426,
   "languages": [
     {
       "name": "TypeScript",
@@ -529,8 +529,8 @@
       }
     },
     "NexLink-Core-LLC/NLC-Website": {
-      "last_sha": "67c3e4b17f6b5bee7985192b835ce15121e3e83f",
-      "total_commits": 152,
+      "last_sha": "30ad9e709433e2742f7253ea5333cdf4bee60abe",
+      "total_commits": 154,
       "total_lines": 1682,
       "lang_lines": {
         "TypeScript": 1682
