@@ -1,24 +1,24 @@
 {
   "total_repos_analyzed": 150,
-  "total_lines_added": 2174196,
-  "total_commits": 4476,
+  "total_lines_added": 2186737,
+  "total_commits": 4477,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 908021,
-      "percentage": 41.8,
+      "lines_added": 920222,
+      "percentage": 42.2,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
       "lines_added": 679644,
-      "percentage": 31.3,
+      "percentage": 31.1,
       "color": "#f1e05a"
     },
     {
       "name": "Python",
       "lines_added": 266206,
-      "percentage": 12.3,
+      "percentage": 12.2,
       "color": "#3572A5"
     },
     {
@@ -30,7 +30,7 @@
     {
       "name": "Go",
       "lines_added": 81532,
-      "percentage": 3.8,
+      "percentage": 3.7,
       "color": "#00ADD8"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "SQL",
-      "lines_added": 10904,
+      "lines_added": 11244,
       "percentage": 0.5,
       "color": "#e38c00"
     },
@@ -490,12 +490,12 @@
       }
     },
     "NexLink-Core-LLC/Nexus-Panel": {
-      "last_sha": "9a938e7ac5430c4531c85a4a6f6e46eb805c84ec",
-      "total_commits": 148,
-      "total_lines": 156652,
+      "last_sha": "ddd4d20540defab32b63474d5c7ef12251c8d2bf",
+      "total_commits": 149,
+      "total_lines": 169193,
       "lang_lines": {
-        "TypeScript": 153338,
-        "SQL": 2452,
+        "TypeScript": 165539,
+        "SQL": 2792,
         "JavaScript": 855,
         "Shell": 7
       }
