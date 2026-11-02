@@ -1,18 +1,18 @@
 {
   "total_repos_analyzed": 150,
-  "total_lines_added": 2214252,
-  "total_commits": 4693,
+  "total_lines_added": 2216214,
+  "total_commits": 4705,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 943939,
-      "percentage": 42.7,
+      "lines_added": 945901,
+      "percentage": 42.8,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
       "lines_added": 682246,
-      "percentage": 30.9,
+      "percentage": 30.8,
       "color": "#f1e05a"
     },
     {
@@ -529,8 +529,8 @@
       }
     },
     "NexLink-Core-LLC/NLC-Website": {
-      "last_sha": "9a45020d2b6cdbdf657291318cc2c7e7c25b8c1d",
-      "total_commits": 165,
+      "last_sha": "2cef6e552b58dadf31692060cfcae09a209ad442",
+      "total_commits": 167,
       "total_lines": 1682,
       "lang_lines": {
         "TypeScript": 1682
@@ -563,8 +563,8 @@
       }
     },
     "NexLink-Core-LLC/game-config-data": {
-      "last_sha": "2bc62415f6e50caebb224b8523cd1497505c173f",
-      "total_commits": 80,
+      "last_sha": "45ae88c661fe4adb5f0fb7571b2730de317526bb",
+      "total_commits": 81,
       "total_lines": 0,
       "lang_lines": {}
     },
@@ -641,11 +641,11 @@
       }
     },
     "NexLink-Core-LLC/uk-server-bot": {
-      "last_sha": "5d067e503cd2b797d598e0cf6c199fcc1903d57e",
-      "total_commits": 5,
-      "total_lines": 2001,
+      "last_sha": "80f58d9e8b1256874d1762a738b2b3bbcaa52308",
+      "total_commits": 14,
+      "total_lines": 3963,
       "lang_lines": {
-        "TypeScript": 2001
+        "TypeScript": 3963
       }
     },
     "GameServersHub-LLC/PoT-Query-Bot": {
