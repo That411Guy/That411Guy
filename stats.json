@@ -1,11 +1,11 @@
 {
   "total_repos_analyzed": 151,
-  "total_lines_added": 2217957,
-  "total_commits": 4718,
+  "total_lines_added": 2218036,
+  "total_commits": 4720,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 947644,
+      "lines_added": 947723,
       "percentage": 42.8,
       "color": "#3178c6"
     },
@@ -1299,11 +1299,11 @@
       }
     },
     "NexLink-Core-LLC/PoT-Char-Creator-Docs": {
-      "last_sha": "8004896ae1f4124149b5ac6a129eeb942b6ccf7c",
-      "total_commits": 9,
-      "total_lines": 1743,
+      "last_sha": "1ee8752b0e3afc655a75aed26f7c728fdf5a855d",
+      "total_commits": 11,
+      "total_lines": 1822,
       "lang_lines": {
-        "TypeScript": 1743
+        "TypeScript": 1822
       }
     }
   }
