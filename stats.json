@@ -1,18 +1,18 @@
 {
   "total_repos_analyzed": 152,
-  "total_lines_added": 2222360,
-  "total_commits": 4772,
+  "total_lines_added": 2231226,
+  "total_commits": 4804,
   "languages": [
     {
       "name": "TypeScript",
-      "lines_added": 951361,
-      "percentage": 42.9,
+      "lines_added": 960227,
+      "percentage": 43.1,
       "color": "#3178c6"
     },
     {
       "name": "JavaScript",
       "lines_added": 682246,
-      "percentage": 30.8,
+      "percentage": 30.6,
       "color": "#f1e05a"
     },
     {
@@ -36,7 +36,7 @@
     {
       "name": "Dart",
       "lines_added": 47826,
-      "percentage": 2.2,
+      "percentage": 2.1,
       "color": "#00B4AB"
     },
     {
@@ -490,11 +490,11 @@
       }
     },
     "NexLink-Core-LLC/Nexus-Panel": {
-      "last_sha": "92fb36d5d5ae92f9ab77475687a185ce9d08601e",
-      "total_commits": 188,
-      "total_lines": 191375,
+      "last_sha": "1527a84f10eb7b6c338fc1602492c091e79d0afd",
+      "total_commits": 220,
+      "total_lines": 200241,
       "lang_lines": {
-        "TypeScript": 187455,
+        "TypeScript": 196321,
         "SQL": 2948,
         "JavaScript": 965,
         "Shell": 7
